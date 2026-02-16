@@ -2,6 +2,9 @@
 
 An intelligent, AI-powered Resume Analysis and ATS Evaluation system that helps candidates optimize their resumes and enables recruiters to efficiently rank applicants using Machine Learning and NLP techniques.
 
+Live Demo : https://ai-resume-analyzer10.streamlit.app/
+
+
 ## 📌 Overview
 
 The Enterprise AI Resume Analyzer evaluates resumes against job descriptions using hybrid scoring techniques that combine keyword matching, semantic similarity, and structural ATS checks.
