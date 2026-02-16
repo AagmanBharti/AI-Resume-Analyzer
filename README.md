@@ -92,7 +92,7 @@ ReportLab (PDF Report Generation)
 
 ### 📂 Project Structure
 
-
+```bash
 RESUME/
 │
 ├── data/
@@ -117,7 +117,7 @@ RESUME/
 ├── app.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ## ⚙️ Installation & Setup
 1️⃣ Clone Repository - 
