@@ -117,26 +117,33 @@ RESUME/
 └── README.md
 
 ## ⚙️ Installation & Setup
-1️⃣ Clone Repository
+1️⃣ Clone Repository - 
+
 git clone https://github.com/YOUR_USERNAME/Resume-Analyzer.git
+
 cd Resume-Analyzer
 
-2️⃣ Create Virtual Environment
+2️⃣ Create Virtual Environment - 
+
 python -m venv venv
 
 
 Activate environment:
 
-Windows
+Windows - 
+
 venv\Scripts\activate
 
-Mac/Linux
+Mac/Linux - 
+
 source venv/bin/activate
 
-3️⃣ Install Dependencies
+3️⃣ Install Dependencies - 
+
 pip install -r requirements.txt
 
-4️⃣ Run Application
+4️⃣ Run Application - 
+
 streamlit run app.py
 
 ## 📊 ATS Scoring Methodology
@@ -168,6 +175,7 @@ Missing Skill Suggestions
 ATS Quality Score
 
 ## 📌 Example Use Cases
+
 👨‍🎓 Students & Job Seekers
 
 Improve resume quality
