@@ -90,7 +90,8 @@ Joblib (Model Serialization)
 
 ReportLab (PDF Report Generation)
 
-## 📂 Project Structure
+### 📂 Project Structure
+
 RESUME/
 │
 ├── data/
