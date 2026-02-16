@@ -92,6 +92,7 @@ ReportLab (PDF Report Generation)
 
 ### 📂 Project Structure
 
+
 RESUME/
 │
 ├── data/
@@ -100,7 +101,7 @@ RESUME/
 ├── models/
 │   ├── model.pkl
 │   ├── vectorizer.pkl
-│   ├── label_encoder.pkl
+│   └── label_encoder.pkl
 │
 ├── src/
 │   ├── preprocess.py
@@ -116,6 +117,7 @@ RESUME/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
 
 ## ⚙️ Installation & Setup
 1️⃣ Clone Repository - 
